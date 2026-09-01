@@ -28,7 +28,7 @@ The main purpose of this repository is to:
 * Keep track of programming practice
 * Create a foundation for learning **DSA, Python, and AI/ML**
 
-## 🚀 How to Run
+#🚀 How to Run
 
 ### 1. Clone the repository
 
