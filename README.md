@@ -18,7 +18,7 @@ This repository contains small programs and mini-projects focused on logic build
 * Random module
 * Basic problem solving
 
-#🎯 Purpose
+#🎯Purpose
 
 The main purpose of this repository is to:
 
