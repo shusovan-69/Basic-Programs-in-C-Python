@@ -6,7 +6,7 @@ This repository contains small programs and mini-projects focused on logic build
 
 
 
-## 🛠️ Technologies
+# 🛠️ Technologies
 
 * **Python 3**
 * Basic programming concepts
