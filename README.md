@@ -30,7 +30,7 @@ The main purpose of this repository is to:
 
 #🚀 How to Run
 
-### 1. Clone the repository
+## 1. Clone the repository
 
 ```bash
 git clone https://github.com/shusovan-69/Basic-Programs-in-C-Python.git
